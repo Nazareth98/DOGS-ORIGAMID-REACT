@@ -65,6 +65,8 @@ export const UserStorage = ({children}) => {
             setLoading(false)
           }
           
+        } else {
+          setLogin(false)
         }
       }
       autoLogin();

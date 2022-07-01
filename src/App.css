@@ -46,6 +46,10 @@ a {
     margin: 0 auto;
 }
 
+.mainContainer {
+    margin-top: 4rem;
+}
+
 .title {
     font-family: var(--type-second);
     line-height: 1;
@@ -72,6 +76,16 @@ a {
     opacity: 0;
     transform: translatex(-20px);
     animation: animeLeft 0.3s forwards;
+}
+
+.active {
+    background: #fff;
+    box-shadow: 0 0 0 3px #fea;
+    border-color: #fb1;
+}
+
+.active svg >* {
+    fill: #fb1;
 }
 
 @keyframes animeLeft {
