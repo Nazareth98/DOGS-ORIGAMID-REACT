@@ -11,10 +11,10 @@ import Head from '../Helper/Head';
 
 const User = () => {
   const {data} = React.useContext(UserContext)
-    const {login} = React.useContext(UserContext)
+  const {login} = React.useContext(UserContext)
 
-    if (login === false) return <Navigate to="/login" />
-
+  if (login === false) return <Navigate to="/login" />
+  console.log(data.id)
   return (
     <section className='container'>
         <Head title="Minha conta" />
