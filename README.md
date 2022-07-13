@@ -15,7 +15,7 @@
 <br>
 
 <h1 align="center">
-  <img alt="WeatherApp" title="WeatherApp" src="" height="425" />
+  <img alt="WeatherApp" title="WeatherApp" src=".github/dogs-origamid-ReactJS/DogsDesktop.gif" height="425" />
   <img alt="WeatherApp" title="Persistência do tema e alerta de erro de cidade não encontrada" src="" height="425" />
 
 </h1>
