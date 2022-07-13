@@ -45,4 +45,36 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/ARTHURPC03/WeatherApp
+$ git clone https://github.com/Nazareth98/dogs-origamid-ReactJS
+
+# Instale as dependências
+$ npm install
+
+# Inicie o Projeto
+$ npm start
+
+```
+
+
+### Tecnologias
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- [React Native](https://reactnative.dev/)
+- [React Hooks](https://pt-br.reactjs.org/docs/hooks-intro.html)
+- [React Router DOM](https://v5.reactrouter.com/web/guides/quick-start)
+- [Context API](https://pt-br.reactjs.org/docs/context.html)
+- [Eslint](https://eslint.org/)
+- [Prettier](https://prettier.io/)
+
+
+---
+
+### Autor
+
+<img alt="PATRICK NAZARETH" title="PATRICK NAZARETH" src="https://github.com/Nazareth98.png" height="100" width="100" />
+
+Made with 💜 by ARTHUR PC 👋
+
+[![LinkedIn Badge](https://img.shields.io/badge/-ARTHUR_PC-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthurpc03/)](https://www.linkedin.com/in/arthurpc03/)
+[![YouTube Badge](https://img.shields.io/badge/-ARTHUR_PC-EF1A19?style=flat-square&logo=YouTube&logoColor=white&link=https://www.youtube.com/arthurpc)](https://www.youtube.com/arthurpc)
