@@ -74,7 +74,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 <img alt="PATRICK NAZARETH" title="PATRICK NAZARETH" src="https://github.com/Nazareth98.png" height="100" width="100" />
 
-Made with 💜 by ARTHUR PC 👋
+Desenvolvido por PATRICK NAZARETH 👋
 
-[![LinkedIn Badge](https://img.shields.io/badge/-ARTHUR_PC-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthurpc03/)](https://www.linkedin.com/in/arthurpc03/)
-[![YouTube Badge](https://img.shields.io/badge/-ARTHUR_PC-EF1A19?style=flat-square&logo=YouTube&logoColor=white&link=https://www.youtube.com/arthurpc)](https://www.youtube.com/arthurpc)
+[![LinkedIn Badge](https://img.shields.io/badge/-PATRICK_NAZARETH-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthurpc03/)](https://www.linkedin.com/in/patricknazarethdev/)
