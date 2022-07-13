@@ -1,10 +1,11 @@
 <h1 align="center">Dogs</h1>
 
-<p align="center">Esse projeto é o projeto final do curso **ReactJS Completo com Hooks** desenvolvido pela Origamid.</p>
+<p align="center">Esse projeto é o projeto final do curso ReactJS Completo com Hooks desenvolvido pela Origamid.</p>
 
 <p align="center">
  <a href="#funcionalidades">Funcionalidades</a> •
  <a href="#pré-requisitos">Pré Requisitos</a> •
+ <a href="#rodando-localmente">Rodando Localmente</a> •
  <a href="#tecnologias">Tecnologias</a> •
  <a href="#autor">Autor</a>
 </p>
@@ -38,3 +39,10 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/).
 
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
+
+
+### Rodando Localmente
+
+```bash
+# Clone este repositório
+$ git clone https://github.com/ARTHURPC03/WeatherApp
