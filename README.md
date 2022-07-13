@@ -1,20 +1,13 @@
-# Dogs - A Rede Social de Cachorros!
+<h1 align="center">Dogs</h1>
 
+<p align="center">Esse projeto é o projeto final do curso **ReactJS Completo com Hooks** desenvolvido pela Origamid.</p>
 ![Exemplo em funcionamento](https://github.com/Nazareth98/Calculadora-de-IMC/blob/main/assets/to-readme/demonstracao.gif)
-
-## Descrição do Projeto
-
-A Rede Social foi o prejeto final do curso **ReactJS Completo com Hooks** desenvolvido pela Origamid. 
-
-Durante o curso fui apresentado a diversas funcionalidade da Biblioteca acompanhado sempre pequenos desafios a cada passo dado dentro do curso.
-
-A partir daí, juntamente com o prefessor, pude desenvolver a rede social *Dogs*.
 
 
 ## Funcionalidades
 
-[x] Consumo de API Externa
-[x] Login Via JSON Web Token
+- [x] Consumo de API Externa
+- [x] Login Via JSON Web Token
 [x] Validação de Formulários
 [x] Infinite Scroll
 [x] Postar Fotos
