@@ -60,7 +60,7 @@ $ npm start
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-- [React Native](https://reactnative.dev/)
+- [ReactJS](https://pt-br.reactjs.org/)
 - [React Hooks](https://pt-br.reactjs.org/docs/hooks-intro.html)
 - [React Router DOM](https://v5.reactrouter.com/web/guides/quick-start)
 - [React Code-Splitting (lazy e suspense)](https://pt-br.reactjs.org/docs/code-splitting.html)
