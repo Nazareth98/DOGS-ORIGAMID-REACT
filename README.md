@@ -63,6 +63,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [React Native](https://reactnative.dev/)
 - [React Hooks](https://pt-br.reactjs.org/docs/hooks-intro.html)
 - [React Router DOM](https://v5.reactrouter.com/web/guides/quick-start)
+- [React Code-Splitting (lazy e suspense)](https://pt-br.reactjs.org/docs/code-splitting.html)
 - [Context API](https://pt-br.reactjs.org/docs/context.html)
 - [Eslint](https://eslint.org/)
 - [Prettier](https://prettier.io/)
@@ -76,4 +77,4 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 Desenvolvido por PATRICK NAZARETH 👋
 
-[![LinkedIn Badge](https://img.shields.io/badge/-PATRICK_NAZARETH-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthurpc03/)](https://www.linkedin.com/in/patricknazarethdev/)
+[![LinkedIn Badge](https://img.shields.io/badge/-PATRICK_NAZARETH-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/patricknazarethdev/)](https://www.linkedin.com/in/patricknazarethdev/)
