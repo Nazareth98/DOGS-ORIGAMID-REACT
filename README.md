@@ -20,6 +20,10 @@
 
 </h1>
 
+### Try Now!
+https://dogs-rigamid-course.herokuapp.com/
+
+
 ### Funcionalidades
 
 - [x] Consumo de API Externa
