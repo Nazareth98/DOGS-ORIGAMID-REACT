@@ -15,7 +15,7 @@
 <br>
 
 <h1 align="center">
-  <img alt="WeatherApp" title="WeatherApp" src="" height="425" />
+  <img alt="WeatherApp" title="WeatherApp" src="https://github.com/Nazareth98/dogs-origamid-ReactJS/blob/fefb1b4e1108360d4bfc193c02a23995e0a73915/DogsDesktop.gif" height="425" />
   <img alt="WeatherApp" title="Persistência do tema e alerta de erro de cidade não encontrada" src="" height="425" />
 
 </h1>
@@ -60,7 +60,7 @@ $ npm start
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-- [React Native](https://reactnative.dev/)
+- [ReactJS](https://pt-br.reactjs.org/)
 - [React Hooks](https://pt-br.reactjs.org/docs/hooks-intro.html)
 - [React Router DOM](https://v5.reactrouter.com/web/guides/quick-start)
 - [React Code-Splitting (lazy e suspense)](https://pt-br.reactjs.org/docs/code-splitting.html)
