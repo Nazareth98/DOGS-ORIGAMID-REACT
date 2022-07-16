@@ -16,7 +16,7 @@
 
 <h1 align="center">
   <img alt="MobileView" title="Aplicação em funcionamento no Desktop" src="https://github.com/Nazareth98/dogs-origamid-ReactJS/blob/fefb1b4e1108360d4bfc193c02a23995e0a73915/DogsDesktop.gif" height="425" />
-  <img alt="DesktopView" title="Aplicação em funcionamento no Desktop" src="https://github.com/Nazareth98/dogs-origamid-ReactJS/DogsDesktop1.gif" height="425" />
+  <img alt="DesktopView" title="Aplicação em funcionamento no Desktop" src="https://github.com/Nazareth98/dogs-origamid-ReactJS/blob/master/DogsDesktop1.gif" height="425" />
 
 </h1>
 
